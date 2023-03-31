@@ -20,7 +20,7 @@ public class Client {
             // Initialize scanner for user input
             scanner = new Scanner(System.in);
 
-            // Main loop for user interaction
+            // Main loop for user choices
             while (true) {
                 // Display menu options
                 System.out.println("--------------------------------------------");
